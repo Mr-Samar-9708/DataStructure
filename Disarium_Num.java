@@ -1,4 +1,4 @@
-class Solution {
+class Disarium_Num {
     
     public boolean isDisarium(int n) {
         
