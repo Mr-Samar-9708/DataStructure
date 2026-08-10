@@ -1,4 +1,4 @@
-class Solution {
+class Armstrong_Num {
 
     static boolean armstrongNumber(int n) {
         int size = 0;
