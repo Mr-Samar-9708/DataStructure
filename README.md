@@ -1,2 +1,2 @@
 # DataStructure
-My all day to day practice of Datastructure
+Here, pushing my all day to day practice of datastructure.
