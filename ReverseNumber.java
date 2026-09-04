@@ -1,4 +1,4 @@
-class ReverseNumber {
+public class ReverseNumber {
 
     public static int reverseNum(int n){
 
